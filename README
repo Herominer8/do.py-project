@@ -1,0 +1,26 @@
+How To Use?
+
+Create two text files with names:
+logs.txt 
+to-do-list.txt
+
+Then write your orders in to-do-list.txt with this syntax:
+
+do [command] [switches](optional)
+
+Example:
+
+do ls -logs
+
+#This command runs ls command which used in linux and saves the results in logs.txt file with -logs switch
+
+Switches:
+#What is each switch's name and what does it do?
+
+-verbose: Prints the results of command in your terminal which you runned do.py in it
+-logs: Saves and writes the result of command in logs.txt which is in same folder with do.py
+-times (number): Runs your command as many times as you specified 
+-delay (number): Runs your command as many times as you specified but with delay
+
+
+#===Wrote By Herominer===#
