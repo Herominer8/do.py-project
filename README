@@ -1,3 +1,7 @@
+This is a command automation script that helps you do your job faster with any operation system
+just read the "How To Use?"
+and use this tool easily
+
 How To Use?
 
 Create two text files with names:
@@ -21,6 +25,7 @@ Switches:
 -logs: Saves and writes the result of command in logs.txt which is in same folder with do.py
 -times (number): Runs your command as many times as you specified 
 -delay (number): Runs your command as many times as you specified but with delay
+
 
 
 #===Wrote By Herominer===#
