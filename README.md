@@ -1,4 +1,4 @@
-This is a command automation script that helps you do your job faster with any operation system
+a command automation script that helps you do your job faster with any operation system
 just read the "How To Use?"
 and use this tool easily
 
@@ -29,3 +29,4 @@ Switches:
 
 
 #===Wrote By Herominer===#
+
